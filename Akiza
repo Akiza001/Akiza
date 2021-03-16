@@ -146,7 +146,7 @@ https://indotv.tech/m3u8sd/usee-nickelodeon-indonesia.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=User%20Agent%2F26.0%20(Linux%3BAndroid%205.1.1)%20ExoPlayerLib%2F2.4.0
 #EXTVLCOPT:http-user-agent=User Agent/26.0 (Linux;Android 5.1.1) ExoPlayerLib/2.4.0
-https://indotv.tech/m3u8sd/usee-cartoonnetwork-indonesia.m3u8
+http://37723998.to:2052/live/joe1/joe2/20721.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/PBS_Kids_Dash_(2009).svg/revision/latest/scale-to-width-down/2000?cb=20171125102412" group-title="Kids",PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b600000.m3u8
