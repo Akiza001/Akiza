@@ -422,6 +422,10 @@ https://edge.roku-live.top.comcast.net/out/u/hbo-east.m3u8
 #EXTINF:-1 tvg-ID="HBOW" tvg-name="HBO (West)" tvg-logo="https://i.ibb.co/02dStD9/IMG-20210103-025549.png" group-title="Movies",HBO (West)
 https://edge.roku-live.top.comcast.net/out/u/hbo-west.m3u8
 
+#EXTINF:-1 tvg-logo="https://en.m.wikipedia.org/wiki/AXN_(Asian_TV_channel)#/media/File:AXN_logo_(2015).svg"
+group-title="Movies", AXN
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AXN-HD-1080p/playlist.m3u8
+
 #EXTINF:-1 tvg-ID="CINE" tvg-name="Cinemax USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/500px-Cinemax_%28Yellow%29.svg.png" group-title="Movies",Cinemax (East)
 https://edge.roku-live.top.comcast.net/out/u/cinemax-east.m3u8
 
